@@ -1,8 +1,9 @@
 # WowBin
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FWowstar2504%2FWowBin)
 
-![WowBin](https://img.shields.io/badge/version-1.0-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
+[![WowBin](https://hackatime-badge.hackclub.com/U09S4K4C2BA/WowBin)](https://github.com/Wowstar2504/WowBin)
+[![WowBin](https://img.shields.io/badge/version-1.0-blue.svg)](https://github.com/Wowstar2504/WowBin)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/Wowstar2504/WowBin/blob/main/LICENSE)
 
 **WowBin** is a "Zero-Knowledge" secret sharing platform. It allows users to share sensitive information (passwords, code snippets, secrets) with the peace of mind that the server never sees the content in plaintext.
 
@@ -13,5 +14,5 @@
 - **Zero-Knowledge**: The decryption key is stored in the **URL Fragment**(``#``). Fragments are never sent to the server, making it mathematically impossible for the host to read your data.
 
 ### License & Contact
-- This is licensed under the MIT license which you may check [here](https://github.com/wowstar2504/WowBin/blob/main/LICENSE).
-- If you have any questions or inquiries about this project, please reach me [at wowstar2504@proton.me](mailto:wowstar2504@proton.me).
+- This is licensed under the MIT license which you may check [here](https://github.com/Wowstar2504/WowBin/blob/main/LICENSE).
+- If you have any questions or inquiries about this project, please reach me at [wowstar2504@proton.me](mailto:wowstar2504@proton.me).
